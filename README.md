@@ -18,6 +18,6 @@ https://attendace-list.vercel.app/
 + Cards: Seção onde é possível ver o nome da pessoa adiciona e o horário em que foi adicionado
 
 
-## Dark Theme
+## Projeto
 
 <img src=".github/project.png">
